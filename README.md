@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/OROKAMONOME/pics/blob/main/__connor_and_hank_anderson_detroit_become_human_drawn_by_iyzlime__1a525b66689c39d5a32be9b287041dc9.jpg"/>
+  <img src="https://github.com/OROKAMONOME/OROKAMONOME/blob/main/hnkcnr.png"/>
 </div>
 <p>&nbsp;</p>
 
